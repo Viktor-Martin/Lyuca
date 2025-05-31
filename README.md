@@ -1,5 +1,3 @@
-### Re-upload, as I lost my original account. 
-
 # Lyuca
 Lyuca is a bot that's been a hobby project of mine since 2019. 
 
@@ -25,3 +23,5 @@ The `-y` is optional, it just accepts the default values of the initalization.
 I'm really tired, it's 10 am and I haven't slept, so I'm probably missing something, but ain't nobody gonna read this anyway. 
 
 Oh, and if you want to use e6, you'll need to get your own e6 api key.
+
+### Re-upload because I lost access to my intial account.
